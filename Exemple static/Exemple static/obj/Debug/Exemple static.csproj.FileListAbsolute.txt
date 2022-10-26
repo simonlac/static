@@ -1,0 +1,8 @@
+H:\windows programming\Exemple static\Exemple static\obj\Debug\Exemple static.csproj.AssemblyReference.cache
+H:\windows programming\Exemple static\Exemple static\obj\Debug\Exemple static.csproj.SuggestedBindingRedirects.cache
+H:\windows programming\Exemple static\Exemple static\obj\Debug\Exemple static.csproj.CoreCompileInputs.cache
+H:\windows programming\Exemple static\Exemple static\bin\Debug\Exemple static.exe.config
+H:\windows programming\Exemple static\Exemple static\bin\Debug\Exemple static.exe
+H:\windows programming\Exemple static\Exemple static\bin\Debug\Exemple static.pdb
+H:\windows programming\Exemple static\Exemple static\obj\Debug\Exemple static.exe
+H:\windows programming\Exemple static\Exemple static\obj\Debug\Exemple static.pdb
